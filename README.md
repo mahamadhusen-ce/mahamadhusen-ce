@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Chat-app**
 
-- 👨‍💻 All of my projects are available at [husenkureshi.web.app](husenkureshi.web.app)
+- 👨‍💻 All of my projects are available at [husenkureshi.web.app](https://husenkureshi.web.app/)
 
 - 📫 How to reach me **husenkureshi09@gmail.com**
 
