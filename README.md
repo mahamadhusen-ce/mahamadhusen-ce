@@ -131,6 +131,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamadhusen-ce&bg_color=141321&color=ffffff&line=ff6b6b&point=9b59b6&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahamadhusen-ce/mahamadhusen-ce/main/dist/snake.svg" alt="Snake Animation" />
+</p>
 
 
 </div>
