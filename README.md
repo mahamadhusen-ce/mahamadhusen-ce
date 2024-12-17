@@ -1,62 +1,136 @@
-<h1 align="left">👋 Hi, I'm <a href="https://husenkureshi.web.app" target="_blank"> Mahamadhusen Kureshi </a></h1>
-<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
+<h1 align="center">Hi 👋, I'm Mahamadhusen Kureshi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 Full-Stack Developer based in Surendrnager, India.
-- 📫 How to reach me: [husenkureshi09@gmail.com](husenkureshi09@gmail.com)
-- 🔗 Rocking a cool **1k+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://husenkureshi.web.app)! 💻❤️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadhusen-ce&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadhusen-ce" /> </p>
 
-<h3 align="left">📲 Connect with me:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahamadhusen-ce&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="left"> <a href="https://twitter.com/roy_joy_07" target="blank"><img src="https://img.shields.io/twitter/follow/husenkureshi?logo=twitter&style=for-the-badge" alt="roy_joy_07" /></a> </p>
+<img align="right" height="200" src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-frolic-bgi6v62j3dpb17nx.gif"  />
+- 🔭 I’m currently working on **cloud base**
+
+- 🌱 I’m currently learning **react**
+
+- 👯 I’m looking to collaborate on [OPET](https://opet-a5e93.web.app/)
+
+- 🤝 I’m looking for help with **Chat-app**
+
+- 👨‍💻 All of my projects are available at [husenkureshi.web.app](husenkureshi.web.app)
+
+- 📫 How to reach me **husenkureshi09@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mahamadhusen_kureshi_f2ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahamadhusen_kureshi_f2ce" height="30" width="40" /></a>
+<a href="https://twitter.com/roy_joy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_joy_07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahamadhusen-kuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadhusen-kuresh" height="30" width="40" /></a>
+<a href="https://instagram.com/qureshi_hussain_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qureshi_hussain_07" height="30" width="40" /></a>
+<a href="https://medium.com/@royalkureshio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royalkureshio7" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/mahamadhusen-kuresh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:husenkureshi09@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/qureshi_hussain_07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/husenkureshi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://peerlist.io/jigar"><img alt="Telegram" src="https://github-readme-badge.peerlist.io/api/jigar" /></a>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo" />
+  <img width="12" />
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
+  <img width="12" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+  <img width="12" />
+  <!-- React Native -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
+  <img width="12" />
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+  <!-- Vue.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
+  <img width="12" />
+  <!-- Adobe XD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="30" alt="adobe xd logo" />
 </div>
+### **📊 GitHub Activity**
 
-<h3 align="left">🚀 Tech Stack:</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>  -->
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<br>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-</div>
-
-<!-- <h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</div> -->
-
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div><br/>
-
-<h3 align="left">📊 GitHub Activity:</h3>
+<div align="center">
+  
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mahamadhusen-ce&show_icons=true&theme=dark&locale=en" alt="husenkureshi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamadhusen-ce&show_icons=true&theme=dark&locale=en&layout=compact" alt="husenkureshi" /></td>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mahamadhusen-ce&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamadhusen-ce&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamadhusen-ce&theme=dark" alt="husenkureshi" /></p>
-  </div>
+<!-- GitHub Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamadhusen-ce&" alt="mahamadhusen-ce" /></p>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamadhusen-ce&bg_color=141321&color=ffffff&line=ff6b6b&point=9b59b6&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+</div>
