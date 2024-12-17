@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> <a href="https://twitter.com/roy_joy_07" target="blank"><img src="https://img.shields.io/twitter/follow/husenkureshi?logo=twitter&style=for-the-badge" alt="roy_joy_07" /></a> </p>
-<img align="right" height="200" src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-frolic-bgi6v62j3dpb17nx.gif"  />
+<img align="right" height="180" src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-frolic-bgi6v62j3dpb17nx.gif"  />
 - 🔭 I’m currently working on **cloud base**
 
 - 🌱 I’m currently learning **react**
