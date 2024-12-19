@@ -127,7 +127,8 @@
 </table>
 
 <!-- GitHub Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamadhusen-ce&" alt="mahamadhusen-ce" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamadhusen-ce&theme=dark&hide_border=true" alt="mahamadhusen-ce" />
+
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
