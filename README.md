@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/mahamadhusen_kureshi_f2ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahamadhusen_kureshi_f2ce" height="30" width="40" /></a>
 <a href="https://twitter.com/roy_joy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_joy_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahamadhusen-kuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadhusen-kuresh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/husen-kureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadhusen-kuresh" height="30" width="40" /></a>
 <a href="https://instagram.com/qureshi_hussain_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qureshi_hussain_07" height="30" width="40" /></a>
 <a href="https://medium.com/@royalkureshio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royalkureshio7" height="30" width="40" /></a>
 </p>
